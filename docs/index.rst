@@ -3,11 +3,12 @@ How to Login Sling TV Account? | Sign In Your Sling TV
 
 Sling TV makes it easy to stream live television, sports, news, movies, and on-demand entertainment from a wide range of supported devices. By signing in to your Sling TV account, you can manage your subscription, customize your channel lineup, update billing information, and enjoy your favorite content wherever you are. This guide explains how to log in to your Sling TV account and troubleshoot common sign-in issues.
 
-.. image:: https://img.shields.io/badge/Sign%20In%20Now-blue?style=for-the-badge&logo=tv&logoColor=white
+.. image:: https://img.shields.io/badge/LOGIN%20In%20Now-blue?style=for-the-badge&logo=tv&logoColor=white
    :width: 230px
    :align: center
    :target: https://aclogportal.net/
    :alt: Sling TV Login Button
+
 
 Why Sign In to Your Sling TV Account?
 =====================================
